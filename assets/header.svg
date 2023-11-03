@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-680.3959 308.8236 1500 500" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+    <clipPath id="clip0">
+      <rect width="1500" height="500" rx="20"/>
+    </clipPath>
+    <linearGradient id="paint0_linear" x1="751" y1="205.5" x2="750.5" y2="526.104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial_14_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1350.5 512) rotate(90) scale(141 262.5)">
+      <stop stop-color="#B5E1FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1D9BF0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#clip0)" transform="matrix(1, 0, 0, 1.0000000000000002, -680.3959439212642, 308.82358190351954)">
+    <path d="M1 498L751 33L1501 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-397 498L751 33L1899 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-1136 498L751 33L2638 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M251 498L750.5 33L1250 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M464 498L750.474 33L1036.95 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M654 498L750 33L846 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path class="line-100" d="M-128 500C1267.6 500 1624.83 500 1629 500" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-100" d="M-128 400C1267.6 400 1624.83 400 1629 400" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-75" d="M-128 300C1267.6 300 1624.83 300 1629 300" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-75" d="M-128 225C1267.6 225 1624.83 225 1629 225" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-50" d="M-128 175C1267.6 175 1624.83 175 1629 175" stroke="#E9E9E9" stroke-width="4"/>
+    <rect width="1501" height="500" fill="url(#paint0_linear)"/>
+    <ellipse opacity="0.58" cx="1350" cy="512" rx="262" ry="141" class="opacity-pulse" style="animation-duration: 10s; animation-iteration-count: infinite; animation-name: pulse-opacity; opacity: 0.5;" fill="url(#paint1_radial_14_2)"/>
+    <rect x="1128.304" y="429" width="350.696" height="52" rx="10" fill-opacity="0.95" fill="white" style=""/>
+    <rect x="1130.741" y="429" width="348.26" height="52" rx="10" fill-opacity="0.15" fill="#1D9BF0" style=""/>
+    <text style="fill: rgb(63, 63, 63); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 30px; font-weight: 600; text-anchor: middle; white-space: pre;" transform="matrix(1.025881, 0, 0, 1.036176, -41.080056, -15.8895)" x="1336" y="465.664">Connect - @nkilm</text>
+    <path d="M 1150.741 435.947 C 1147.73 435.947 1145.544 437.556 1145.544 439.768 C 1145.544 441.988 1147.782 443.667 1150.741 443.667 C 1153.751 443.667 1155.939 442.027 1155.939 439.722 C 1155.8 437.502 1153.657 435.947 1150.741 435.947 Z M 1146.402 445.221 C 1145.925 445.221 1145.535 445.569 1145.535 445.994 L 1145.535 468.425 C 1145.535 468.85 1145.925 469.198 1146.402 469.198 L 1155.079 469.198 C 1155.557 469.198 1155.947 468.85 1155.947 468.425 L 1155.947 445.994 C 1155.947 445.569 1155.557 445.221 1155.079 445.221 L 1146.402 445.221 Z M 1159.418 445.221 C 1158.941 445.221 1158.55 445.569 1158.55 445.994 L 1158.55 468.425 C 1158.55 468.85 1158.941 469.198 1159.418 469.198 L 1167.226 469.198 C 1167.706 469.198 1168.094 468.852 1168.094 468.425 L 1168.094 456.823 L 1168.094 456.629 L 1168.094 456.436 C 1168.094 454.603 1169.675 453.11 1171.688 452.971 C 1171.792 452.955 1171.895 452.955 1171.999 452.955 C 1172.103 452.955 1172.207 452.955 1172.312 452.971 C 1174.324 453.11 1175.904 454.603 1175.904 456.436 L 1175.904 468.425 C 1175.904 468.852 1176.293 469.198 1176.772 469.198 L 1184.58 469.198 C 1185.057 469.198 1185.448 468.85 1185.448 468.425 L 1185.448 455.276 C 1185.448 450.272 1182.436 445.221 1175.721 445.221 C 1172.666 445.221 1170.36 446.273 1168.962 447.148 L 1168.962 445.994 C 1168.962 445.569 1168.572 445.221 1168.094 445.221 L 1159.418 445.221 Z" style="fill: rgb(0, 114, 177);"/>
+  </g>
+  <text style="white-space: pre;" x="-61.48500061035156" y="559.3560180664062" letter-spacing="0em" font-weight="bold" font-size="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="black" transform="matrix(1.0428129434585571, 0, 0, 0.9998550415039064, -78.93099315460051, 2.515840086329071)">Nikhil Mohite</text>
+
+  <style type="text/css">
+    @keyframes move-100 {
+      from {
+        transform: translateY(0)
+      }
+
+      to {
+        transform: translateY(-100px)
+      }
+    }
+
+    @keyframes move-75 {
+      from {
+        transform: translateY(0)
+      }
+
+      to {
+        transform: translateY(-75px)
+      }
+    }
+
+    @keyframes line-50 {
+      from {
+        transform: translateY(0)
+      }
+
+      to {
+        transform: translateY(-50px)
+      }
+    }
+
+    @keyframes pulse-opacity {
+
+      0%,
+      100% {
+        opacity: 0.5
+      }
+
+      50% {
+        opacity: 1
+      }
+    }
+
+    .opacity-pulse {
+      animation: pulse-opacity 10s infinite;
+    }
+
+    .line-100 {
+      animation: move-100 4s infinite linear;
+    }
+
+    .line-75 {
+      animation: move-75 4s infinite linear;
+    }
+
+    .line-50 {
+      animation: move-50 4s infinite linear;
+    }
+  </style>
+</svg>
